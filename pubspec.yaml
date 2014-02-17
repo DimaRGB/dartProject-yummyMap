@@ -2,4 +2,5 @@ name: yummyMap
 description: A sample web application
 dependencies:
   browser: any
+  angular: any
   google_maps: any
